@@ -1,7 +1,5 @@
 # NOUNS–HALO KEYCHAIN
-NOUNS-HALO is a digital artifact, with a custom circuit board featuring x78 WS2812B LEDs, powered by a XIAO SAMD21 microcontroller with a rechargeable LiPo battery circuit, a push button, and an on/off switch.
-
-
+NOUNS-HALO is a digital artifact created for [NOUNS](https://nouns.wtf), with a custom circuit board featuring x78 WS2812B LEDs, powered by a XIAO SAMD21 microcontroller with a rechargeable LiPo battery circuit, a push button, and an on/off switch.
 
 Enclosed here you will find all the schematics, firmware, GERBERs (for PCB production), and CAD files for the enclosure (3D printable).
 
